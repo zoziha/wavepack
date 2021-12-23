@@ -2,6 +2,8 @@
 
 `WAVEPACK`: routines to compute the wavelet transform of a time series, and significance levels.
 
+*Note: This stage, only `real64` is supported.*
+
 ## Get Started
 
 ### Dependencies

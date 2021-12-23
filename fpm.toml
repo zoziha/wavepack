@@ -1,2 +1,6 @@
 name = "wavepack"
 version = "VERSION"
+
+
+[dependencies]
+fftpack = { git="https://github.com/jacobwilliams/fftpack.git", branch="refactor" }
